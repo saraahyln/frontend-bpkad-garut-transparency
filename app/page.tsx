@@ -37,7 +37,7 @@ export default function LandingPage() {
       id: 4,
       name: "Siti Sarah Yuliana",
       position: "Mahasiswa Institut Teknologi Garut",
-      image: "/img/poto-siti.jpeg",
+      image: "/img/poto-siti.jpg",
     },
   ];
 
